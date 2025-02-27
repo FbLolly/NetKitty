@@ -1,4 +1,4 @@
-lil bro to send first argument is filename, second argument is IPV4 to whom
-to recieve its just filename
-
 Port is 6942
+
+Recieving: only one parameter, the name of the file
+Sending: p1 is the ip adress, p2 is the name of the file
