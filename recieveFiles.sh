@@ -1,3 +1,3 @@
 #!/bin/bash
 
-netcat -l 6942 > $1
+nc -l 6942 > $1
